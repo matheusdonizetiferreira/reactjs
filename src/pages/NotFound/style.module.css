@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: white;
+    flex-direction: column;
+    gap: 30px;
+    background-image: url(../../imagens/71932a46-cd3c-4cd6-a4da-43a61785bcf6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
